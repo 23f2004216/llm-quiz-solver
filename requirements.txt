@@ -1,7 +1,1 @@
-Flask
-requests
-pandas
-playwright
-pdfplumber
-openpyxl
-xlrd
+
