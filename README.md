@@ -1,1 +1,0 @@
-# llm-quiz-solver
